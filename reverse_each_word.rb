@@ -1,14 +1,10 @@
 def reverse_each_word (string)
   string_arr = nil 
   
-  string.split(" ") do 
-    if string_arr = nil 
-      string_arr = 
-      
-    end 
-    
+  string.split(" ") do |element| string[string.length- 1]
     
   end 
+  
   
   
   
