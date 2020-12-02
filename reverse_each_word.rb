@@ -1,7 +1,7 @@
 def reverse_each_word (string)
   
   
-  string.split (" ") = new_arr
+ new_arr = string.split (" ") 
   do 
   new_arr.reverse 
 end 
