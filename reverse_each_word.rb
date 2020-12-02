@@ -5,5 +5,5 @@ def reverse_each_word (string)
  reversed_arr = [ ]
  string.size.times {reversed_arr << new_arr.pop}
   
-  
+  reversed_arr.join
 end
