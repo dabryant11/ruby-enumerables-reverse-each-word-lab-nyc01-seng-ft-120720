@@ -1,5 +1,14 @@
 def reverse_each_word (string)
-  string.split(" ")
+  string_arr = nil 
+  
+  string.split(" ") do 
+    if string_arr = nil 
+      string_arr = 
+      
+    end 
+    
+    
+  end 
   
   
   
