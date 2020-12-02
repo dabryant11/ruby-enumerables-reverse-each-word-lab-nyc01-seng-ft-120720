@@ -1,9 +1,9 @@
 def reverse_each_word (string)
   
   
-  string.reverse(string.split.each (" ") )
+  string.split.each (" ") = new_arr
   
-  
+  new_arr.reverse 
   
   
   
